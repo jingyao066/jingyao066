@@ -2,7 +2,7 @@
 
 Welcome to my page! 
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+![](https://github.com/jingyao066/jingyao066/blob/main/github-snake.svg)
 
 
 ## 🔭I’m currently code with
