@@ -2,8 +2,6 @@
 
 Welcome to my page! 
 
-In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/plexpt
-
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 ## 🔭I’m currently code with
@@ -67,10 +65,6 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
     <img alt="Spring"
          src="https://img.shields.io/badge/-Spring%20Cloud-43853d?style=flat-square&logo=spring&logoColor=white"/>
 </p>
-
-### 💬Contact Me
-
-- Gmail: plexpt@gmail.com
 
 ### 🌱 I’m currently learning
 
